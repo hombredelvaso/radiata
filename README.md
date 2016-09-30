@@ -1,5 +1,6 @@
 ### ♄adiata ?
-> https://en.wikipedia.org/wiki/Symmetry_in_biology#Radial_symmetry
+
+> mmm. pie.
 
 #### thoughts
 - http://unicode-table.com/en/
@@ -12,3 +13,7 @@
 - choose between hover/click, etc...
 - another variation, follow mouse (open at coordinates on key press)
 - use: http://github.e-sites.nl/perimeter.js/ instead of mouseover/mouseout
+
+#### resources
+- https://en.wikipedia.org/wiki/Pie_menu
+- https://en.wikipedia.org/wiki/Symmetry_in_biology#Radial_symmetry
