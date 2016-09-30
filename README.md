@@ -10,12 +10,7 @@
 
 ```html
 <nav class="radial circular-menu">
-  <div id="radial-menu" class="radial circle">
-    <!-- <a href="#" class="fa fa-home fa-2x">*</a> -->
-    <!-- <a href="#" class="fa fa-facebook fa-2x">*</a> -->
-    <!-- <a href="#" class="fa fa-twitter fa-2x">*</a> -->
-  </div>
-
+  <div id="radial-menu" class="radial circle"></div>
   <a href="#" class="radial menu-button fa fa-bars fa-2x"></a>
 </nav>
 ```
