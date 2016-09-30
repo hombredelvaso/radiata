@@ -44,6 +44,7 @@ radiata.makeRadial('radial-menu', { spread: 1, spreadSection: 1, updown: -0.5, d
 - [ ] another variation, follow mouse (open at coordinates on key press)
 - [ ] use: http://github.e-sites.nl/perimeter.js/ instead of mouseover/mouseout
 - [ ] create github page for example: https://pages.github.com/
+- [ ] add MIT licence
 
 #### resources
 - https://en.wikipedia.org/wiki/Pie_menu
