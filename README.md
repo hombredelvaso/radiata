@@ -2,6 +2,24 @@
 
 > mmm. pie.
 
+#### use
+
+```javascript
+radiata.makeRadial('radial-menu', { spread: 1, spreadSection: 1, updown: -0.5, distance: 45, leftTight: 0, topTight: 0 }, [
+  {class: 'bigger', value: '☎'},
+  {class: 'bigger', value: '👤'},
+  {class: 'bigger', value: '✓'},
+  {class: 'bigger', value: '♫'},
+  {class: 'bigger', value: '☂'},
+  {class: 'bigger', value: '🐈'},
+  {class: 'bigger', value: '📝'},
+  {class: 'bigger', value: '✄'},
+  {class: 'bigger', value: '🚫'},
+  {class: 'bigger', value: '🍏'},
+  {class: 'bigger', value: '🌐'}
+]);
+```
+
 #### thoughts
 - http://unicode-table.com/en/
 
