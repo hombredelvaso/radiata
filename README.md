@@ -8,6 +8,19 @@
 <script src="dist/radiata.js"></script>
 ```
 
+```html
+<nav class="radial circular-menu">
+  <div id="radial-menu" class="radial circle">
+    <!-- <a href="#" class="fa fa-home fa-2x">*</a> -->
+    <!-- <a href="#" class="fa fa-facebook fa-2x">*</a> -->
+    <!-- <a href="#" class="fa fa-twitter fa-2x">*</a> -->
+  </div>
+
+  <a href="#" class="radial menu-button fa fa-bars fa-2x"></a>
+</nav>
+```
+
+
 ```javascript
 radiata.makeRadial('radial-menu', { spread: 1, spreadSection: 1, updown: -0.5, distance: 45, leftTight: 0, topTight: 0 }, [
   {class: 'bigger', value: '☎'},
