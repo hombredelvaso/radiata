@@ -4,6 +4,10 @@
 
 #### use
 
+```html
+<script src="dist/radiata.js"></script>
+```
+
 ```javascript
 radiata.makeRadial('radial-menu', { spread: 1, spreadSection: 1, updown: -0.5, distance: 45, leftTight: 0, topTight: 0 }, [
   {class: 'bigger', value: '☎'},
